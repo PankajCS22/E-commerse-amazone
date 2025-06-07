@@ -1,9 +1,4 @@
-
-    
-        
-
-    
-       * {
+* {
     margin: 0;
     font-family: Arial;
     border: border-box;
@@ -147,8 +142,8 @@ span {
 
 /*** herosection ***/
 .hero-section {
-    background-image: url("pic.jpg");
-    height: 1000px;
+    background-image: url("hero.jpg");
+    height: 600px;
     background-size: cover;
     display: flex;
     justify-content: center;
